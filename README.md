@@ -144,6 +144,8 @@ DB_USER=envde_kullandiginiz_username
 DB_PASSWORD=envde_kullandiginiz_sifre
 
 GOOGLE_AI_API_KEY=gemini_api_key
+OPENAI_API_KEY=openai_api_key
+OPENROUTER_API_KEY=openrouter_api_key
 
 FLASK_SECRET_KEY=secret_key
 FLASK_ENV=production
