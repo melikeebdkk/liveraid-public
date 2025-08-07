@@ -14,8 +14,8 @@ click==8.1.7
 blinker==1.6.2
 python-dotenv==1.0.1
 openai==1.23.0
-google-generativeai==0.7.0
-google-cloud-aiplatform==1.40.0
+google-generativeai==0.8.3
+google-cloud-aiplatform==1.40.0  
 Pillow==10.4.0
 markdown==3.5
 psycopg2-binary==2.9.7
