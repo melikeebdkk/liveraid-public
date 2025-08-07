@@ -22,4 +22,4 @@ gunicorn==20.1.0
 Flask-CORS==3.0.10
 Cython==0.29.36
 beautifulsoup4==4.12.3
-reportlab
+reportlab==4.1.0
