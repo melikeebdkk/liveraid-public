@@ -30,3 +30,4 @@ google-generativeai
 python-dotenv
 requests
 google.genai
+bcrypt==4.1.2
